@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+*{
+   font-family: 'Poppins', sans-serif;
+   margin:0; padding:0;
+   box-sizing: border-box;
+   outline: none; border:none;
+   text-decoration: none;
+}
+
+.container{
+   align-items: baseline;
+   justify-content: flex;
+   padding:15px;
+  
+   position: relative;
+   left: var(--page-header-width);
+   width: calc(100% - var(--page-header-width));
+}
+
+.container .content{
+   text-align: center;
+   display: flex;
+   justify-content: space-around;
+}
+
+.container .content h3{
+   font-size: 20px;
+   color:#333;
+   margin-top: 5px;
+}
+
+.container .content h3 span{
+   background: rgb(65, 96, 250);
+   color:#fff;
+   border-radius: 5px;
+   padding:0 15px;
+}
+
+.container .content h1{
+   font-size: 30px;
+   color:#333;
+}
+
+.container .content h1 span{
+   color:crimson;
+}
+
+.container .content .btn{
+   padding:0px 15px;
+   font-size: 15px;
+   border-radius: 5px;
+   margin-top: 5px;
+   background: #333;
+   color:#fff;
+   text-transform: capitalize;
+   display: flex;
+   /*this centers the text vertically*/
+   align-items: center;
+   height: 35px;
+}
+
+.container .content .btn:hover{
+   background: crimson;
+}
+
+.form-container{
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding:20px;
+   padding-bottom: 60px;
+   background: #eee;
+}
+
+.form-container form{
+   padding:20px;
+   border-radius: 5px;
+   box-shadow: 0 5px 10px rgba(0,0,0,.1);
+   background: #fff;
+   text-align: center;
+   width: 500px;
+}
+
+.form-container form h3{
+   font-size: 30px;
+   text-transform: uppercase;
+   margin-bottom: 10px;
+   color:#333;
+}
+
+.form-container form input,
+.form-container form select{
+   width: 100%;
+   padding:10px 15px;
+   font-size: 17px;
+   margin:8px 0;
+   background: #eee;
+   border-radius: 5px;
+}
+
+.form-container form select option{
+   background: #fff;
+}
+
+.form-container form .form-btn{
+   background: #fbd0d9;
+   color:crimson;
+   text-transform: capitalize;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+.form-container form .form-btn:hover{
+   background: crimson;
+   color:#fff;
+}
+
+.form-container form p{
+   margin-top: 10px;
+   font-size: 20px;
+   color:#333;
+}
+
+.form-container form p a{
+   color:crimson;
+}
+
+.form-container form .error-msg{
+   margin:10px 0;
+   display: block;
+   background: crimson;
+   color:#fff;
+   border-radius: 5px;
+   font-size: 20px;
+   padding:10px;
+}
+
+/* Add padding and center-align text to the container */
+.mdcontainer {
+   margin-top: 25%;
+   text-align: center;
+ }
+ 
+ /* The Modal (background) */
+ .modal {
+   display: none; /* Hidden by default */
+   position: fixed; /* Stay in place */
+   z-index: 1; /* Sit on top */
+   left: 0;
+   top: 0;
+   width: 100%; /* Full width */
+   height: 100%; /* Full height */
+   overflow: auto; /* Enable scroll if needed */
+   background: rgba(255, 255, 255, 0.901);
+   padding-top: 50px;
+   padding-left: 400px;
+   padding-right: 400px;
+ }
+ 
+ /* Modal Content/Box */
+ .modal-content {
+   background-color: #fefefe;
+   margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+   border: 1px solid #888;
+   width: 20%; /* Could be more or less, depending on screen size */
+ }
+ 
+ /* Style the horizontal ruler */
+ hr {
+   border: 1px solid #f1f1f1;
+   margin-bottom: 25px;
+ }
+  
+ /* The Modal Close Button (x) */
+ .close {
+   position: absolute;
+   right: 35px;
+   top: 15px;
+   font-size: 40px;
+   font-weight: bold;
+   color: #474747;
+ }
+ 
+ .close:hover,
+ .close:focus {
+   color: #f44336;
+   cursor: pointer;
+ }
+ 
+ /* Clear floats */
+ .clearfix::after {
+   content: "";
+   clear: both;
+   display: table;
+ }
+ 
+ /* Change styles for cancel button and delete button on extra small screens */
+ @media screen and (max-width: 300px) {
+   .cancelbtn, .deletebtn {
+      width: 100%;
+   }
+ }
