@@ -24,7 +24,7 @@ A few images of the final product. **Can provide more, need to update API Key, p
 ![image](https://github.com/user-attachments/assets/854996a2-2d56-46bb-9c31-a3c21ca3f618)
 
 ## login
-![image](https://github.com/user-attachments/assets/181c26ca-a79c-4c5f-94da-7d50af7dda7a)
+![image](https://github.com/user-attachments/assets/69866c68-2360-4223-9b82-9589654d1f65)
 
 ## registration
 ![image](https://github.com/user-attachments/assets/b6004d95-75b2-452a-a8f9-d01ed530153c)
