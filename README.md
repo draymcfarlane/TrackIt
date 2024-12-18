@@ -20,7 +20,7 @@ Download PPT for an overview.
 # Images
 A few images of the final product. 
 
-**Can provide more, need to update API Key, please refer to the PPT for production images and walk through**
+**Can provide more, need to update API Key. Please refer to the PPT for production images and walk through.**
 
 ## landing
 ![image](https://github.com/user-attachments/assets/854996a2-2d56-46bb-9c31-a3c21ca3f618)
@@ -30,6 +30,15 @@ A few images of the final product.
 
 ## registration
 ![image](https://github.com/user-attachments/assets/b6004d95-75b2-452a-a8f9-d01ed530153c)
+
+## all error messages displayed appropriately
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/73f61f39-9d2e-4262-83ed-8ed10faab236" />
+
+## bus driver page
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/6cbf1473-5b0c-4dbc-bbf7-b9a427dbb99d" />
+
+## passenger page
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/f5bcbdb0-dab6-42ab-a549-89688c9f665a" />
 
 ## backend
 ![image](https://github.com/user-attachments/assets/3f46936e-bb2e-4ca1-bbce-9ed1c11b8333)
