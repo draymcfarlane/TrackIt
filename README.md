@@ -18,7 +18,9 @@ Download PPT for an overview.
 [SE_FinalProj_PPTCarrie_Deonaundray.pptx](https://github.com/user-attachments/files/18175276/SE_FinalProj_PPTCarrie_Deonaundray.pptx)
 
 # Images
-A few images of the final product. **Can provide more, need to update API Key, please refer to the PPT for production images and walk through**
+A few images of the final product. 
+
+**Can provide more, need to update API Key, please refer to the PPT for production images and walk through**
 
 ## landing
 ![image](https://github.com/user-attachments/assets/854996a2-2d56-46bb-9c31-a3c21ca3f618)
