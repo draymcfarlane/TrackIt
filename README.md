@@ -16,3 +16,18 @@ TrackIt aims to promote the use of public transportation, reduce traffic congest
 
 Download PPT for an overview.
 [SE_FinalProj_PPTCarrie_Deonaundray.pptx](https://github.com/user-attachments/files/18175276/SE_FinalProj_PPTCarrie_Deonaundray.pptx)
+
+# Images
+A few images of the final product. **Can provide more, need to update API Key, please refer to the PPT for production images and walk through**
+
+## landing
+![image](https://github.com/user-attachments/assets/854996a2-2d56-46bb-9c31-a3c21ca3f618)
+
+## login
+![image](https://github.com/user-attachments/assets/181c26ca-a79c-4c5f-94da-7d50af7dda7a)
+
+## registration
+![image](https://github.com/user-attachments/assets/b6004d95-75b2-452a-a8f9-d01ed530153c)
+
+## backend
+![image](https://github.com/user-attachments/assets/3f46936e-bb2e-4ca1-bbce-9ed1c11b8333)
